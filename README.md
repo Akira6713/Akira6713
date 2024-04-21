@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erik Ramirez
+- 👋 Hi, I’m Eric Ramirez
 - 📚 Graduated ... B.S. in Software Engineering from Western Governors University
 - 📚 Student ... M.S. in Artificial Intelligence and Machine Learning from Colorado State University
 - 👀 I’m interested in ... Artificial Intelligence and Machine Learning
